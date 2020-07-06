@@ -6,5 +6,5 @@ Under IDF - (PlatformIO) my first programm with a lot of lines from BOSCHSensort
 Notes:
   In Main the options:  
     - Normal  
-    - Forced
+    - Forced  
   are implemented and can be commented out.
